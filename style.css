@@ -2,8 +2,8 @@ body { font-family: Arial; font-size: 14px; color: #333333; }
 #window{ display: block; width: 550px; height: 410px; background: #3399FF; border: 1px solid black; border-radius: 10px; }
 #artist{ display: inline-block; float: left; margin: 8px; }
 #track{ display: inline-block; float: right; margin: 8px; }
-.artist_n{ width: 180px; height: 35px; margin: 2px; background: #A3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
-.artist_p{ width: 180px; height: 35px; margin: 2px; background: #D3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
-.track_n{ width: 180px; height: 35px; margin: 2px; background: #A3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
-.track_p{ width: 180px; height: 35px; margin: 2px; background: #D3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
-.black_a{ display: inline; float: right; width: 20px; height: 35px; background: black; border-radius: 0px 10px 10px 0px; }
+.artist_n{ width: 200px; height: 35px; margin: 2px; background: #A3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
+.artist_p{ width: 200px; height: 35px; margin: 2px; background: #D3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
+.track_n{ width: 200px; height: 35px; margin: 2px; background: #A3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
+.track_p{ width: 200px; height: 35px; margin: 2px; background: #D3FFFF; line-height: 35px; text-align: center; border-bottom: 2px solid black; border-radius: 10px; }
+.black_a{ display: inline; float: right; width: 15px; height: 15px; margin: 10px 7px 0px 0px; background: orange; border: 1px solid black; border-radius: 15px 15px 15px 15px; }
